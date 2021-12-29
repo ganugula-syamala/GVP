@@ -1,0 +1,12 @@
+/* body p means select all p in the body*/
+body p{
+    background-color: pink;
+    color: green;
+}
+/*body>p{
+    background-color: pink;
+    color: green;
+}*/
+h1{
+    background-color: maroon; 
+}
